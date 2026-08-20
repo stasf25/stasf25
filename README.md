@@ -1,4 +1,4 @@
-<img src="assets/avatar_fl.jpg" width="600">
+<img src="assets/avatar_fl.jpg">
 
 # Привет! Меня зовут Станислав 👋
 
