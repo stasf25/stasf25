@@ -45,9 +45,22 @@
 - **В чем плюс:** Разгружает IT-отдел от рутины. Построен на Dify, что позволило быстро настроить логику без глубокой программирования. Есть полная документация и презентация для внедрения.
 
 **Скриншоты:**
-- [Chatflow в Dify](assets/IT-assistant/chatflow.png)
-- Пример диалога: [кадр1](assets/IT-assistant/dialog1.png), [кадр2](assets/IT-assistant/dialog2.png)
-- [Пример тикета](assets/IT-assistant/ticket.png)
+<details>
+  <summary>Скриншот chatflow в Dify</summary>
+
+  ![Chatflow в Dify](assets/IT-assistant/chatflow.png)
+</details>
+<details>
+  <summary>Пример диалога</summary>
+
+  ![кадр1](assets/IT-assistant/dialog1.png)
+  ![кадр2](assets/IT-assistant/dialog2.png)
+</details>
+<details>
+  <summary>Пример тикета</summary>
+
+  ![Пример тикета](assets/IT-assistant/ticket.png)
+</details>
 
 ### 🎙️ [Transcriber: ИИ-транскрибатор переговоров](#) *(приватный проект)*
 - **Какую задачу решает:** Автоматически переводит аудиозаписи встреч в текст, разделяя реплики по участникам (спикерам) и переводя их при необходимости на русский язык.
