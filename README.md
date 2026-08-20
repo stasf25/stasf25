@@ -47,18 +47,15 @@
 **Скриншоты:**
 <details>
   <summary>Скриншот chatflow в Dify</summary>
-
   ![Chatflow в Dify](assets/IT-assistant/chatflow.png)
 </details>
 <details>
   <summary>Пример диалога</summary>
-
   ![кадр1](assets/IT-assistant/dialog1.png)
   ![кадр2](assets/IT-assistant/dialog2.png)
 </details>
 <details>
   <summary>Пример тикета</summary>
-
   ![Пример тикета](assets/IT-assistant/ticket.png)
 </details>
 
@@ -69,15 +66,22 @@
 
 <details>
   <summary>Показать скриншот</summary>
-
   ![Результат транскрибации](assets/transcriber/PEm05_screen1.png)
 </details>
-<!-- <img src="assets/transcriber/PEm05_screen1.png" alt="Результат транскрибации" width="600"> -->
 
 ### 📅 [Planner: Бот-планировщик задач](#) *(приватный проект)*
 - **Какую задачу решает:** Помогает пользователям управлять задачами и расписанием прямо в Telegram.
 - **Стек:** n8n, Telegram Bot API, промпт-инжиниринг.
 - **В чем плюс:** Создан на low-code платформе. Легко масштабируется и адаптируется под новые сценарии без переписывания кода.
+
+<details>
+  <summary>Cкриншот workflow в n8n</summary>
+  ![Cкриншот](assets/planner/workflow.png)
+</details>
+<details>
+  <summary>Cкриншот диалога</summary>
+  ![Cкриншот](assets/planner/PEn08_screen2.png)
+</details>
 
 ### 🧠 [RAG-ассистент: Семантический поиск по базе знаний](https://github.com/stasf25/RAG)
 - **Какую задачу решает:** Отвечает на вопросы пользователей, строго опираясь на документы из базы знаний. Работает через Telegram-бота и командную строку.
@@ -89,7 +93,12 @@
 - **Какую задачу решает:** Умный чат-бот для социальной сети ВКонтакте, который понимает не только текст, но и изображения, и может искать информацию в базе знаний.
 - **Стек:** Python, VK API, RAG-пайплайн.
 - **В чем плюс:** Ведет диалог с пользователем, отвечая на вопросы строго по базе знаний, дает возможность загружать изображения в контекст диалога.
-<!-- <img src="assets/vk-bot/PEr01_bot_4.png" alt="Считывание текста с изображения" width="600"> -->
+
+<details>
+  <summary>Cкриншот диалога</summary>
+  ![кадр1](assets/vk-bot/PEr01_bot_4.png)
+  ![кадр2](assets/vk-bot/PEr01_bot_5.png)
+</details>
 
 ### 📊 [RECSYS: Рекомендательная система](https://github.com/stasf25/RECSYS)
 - **Какую задачу решает:** Предлагает пользователям товары на основе их прошлого поведения.
